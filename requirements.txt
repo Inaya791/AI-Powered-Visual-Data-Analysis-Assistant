@@ -1,0 +1,4 @@
+openai
+Streamlit
+CV2
+numpy
