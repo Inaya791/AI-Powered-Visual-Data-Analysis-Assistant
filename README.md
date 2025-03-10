@@ -8,6 +8,14 @@ In industries where, large volumes of visual data (e.g., graphs, charts) are gen
 
 A tool powered by GPT-4o and deployed using the Streamlit framework (for frontend). This tool analyzes images of charts or graphs, generating textual summaries and providing key insights in real-time.
 
+**Requirements**
+
+1-Login to https://openai.com/
+
+2-Generate API key
+
+3-Any images of graph to check the API response.
+
 **How to use?**
 
 Step1: Clone the Repo by commanding git clone URL of this Repository
@@ -22,4 +30,4 @@ Step5:Run the app.py file by commanding python demo.py
 
 Step6: Yay! finally you did and now explore by prompting it about the charts and graphs image 
 
-**Thankyou Reader & Coder**
+**Happy Coding!!!**
